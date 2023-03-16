@@ -1,4 +1,4 @@
-# simple-douyin
+# simple-TikTok-server
 ## Introduction
 
 **基于Kitex + Hertz 框架的简易版douyin/TikTok服务端，具有视频推送、视频上传、点赞、评论、关注等基础功能。**
